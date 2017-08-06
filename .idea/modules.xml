@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/clouddemo-01.iml" filepath="$PROJECT_DIR$/clouddemo-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clouddemo-01_main.iml" filepath="$PROJECT_DIR$/.idea/modules/clouddemo-01_main.iml" group="clouddemo-01" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/clouddemo-01_test.iml" filepath="$PROJECT_DIR$/.idea/modules/clouddemo-01_test.iml" group="clouddemo-01" />
+      <module fileurl="file://$PROJECT_DIR$/eruaka-server/eruaka-server.iml" filepath="$PROJECT_DIR$/eruaka-server/eruaka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eruaka-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eruaka-server_main.iml" group="eruaka-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eruaka-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eruaka-server_test.iml" group="eruaka-server" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client-01/eureka-client-01.iml" filepath="$PROJECT_DIR$/eureka-client-01/eureka-client-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-client-01_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-client-01_main.iml" group="eureka-client-01" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-client-01_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-client-01_test.iml" group="eureka-client-01" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-consumer/ribbon-consumer.iml" filepath="$PROJECT_DIR$/ribbon-consumer/ribbon-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ribbon-consumer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ribbon-consumer_main.iml" group="ribbon-consumer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ribbon-consumer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ribbon-consumer_test.iml" group="ribbon-consumer" />
+    </modules>
+  </component>
+</project>
